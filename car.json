@@ -1,0 +1,11 @@
+{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+  "new": true,
+  "colors": [
+    "red",
+    "white",
+    "blue"
+  ]
+}
